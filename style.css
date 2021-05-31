@@ -1,0 +1,15 @@
+.ipec{
+    color: #fa432c;
+    background-color: #151515;
+    margin: 0%;
+    padding: 50px;
+    font-family: Verdana;
+    text-decoration: underline;
+    text-shadow: 2px 2px 2px white;
+    text-align: center;
+    border: 2px solid #fa432c;
+}
+
+.banner{
+    width: 100%;
+}
